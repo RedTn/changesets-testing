@@ -1,3 +1,3 @@
 module.exports = {
-    foo: 'bar3'
+    foo: 'bar4'
 };
